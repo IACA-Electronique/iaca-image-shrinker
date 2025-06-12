@@ -5,6 +5,6 @@ WORKDIR /app
 
 COPY scripts  .
 
-RUN chmod +x *.sh && apk update && apk add bash libfdisk jq util-linux e2fsprogs e2fsprogs-extra
+RUN chmod +x *.sh && apk update && apk add bash libfdisk jq util-linux e2fsprogs e2fsprogs-extra dosfstools
 
 ENTRYPOINT ["bash","iaca-image-shrinker.sh"]
