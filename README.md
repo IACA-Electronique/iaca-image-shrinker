@@ -2,7 +2,7 @@
 <p align="center">Powered by </p>
 <p align="center">
 <a href="https://iaca-electronique.com">
-<img style="" width="250px" src="https://www.iaca-electronique.com/img/logo.png">
+<img alt="IACA ELECTRONIQUE LOGO" style="" width="250px" src="https://iaca-electronique.com/img/IACA_couleurs.svg">
 </a>
 </p>
 
